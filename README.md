@@ -5,29 +5,29 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-[Ishana Goyal] (https://github.com/ishana-goyal)
-[Benji Luo] (https://github.com/BenjiLuo)
-[Fatema Nassar] (https://github.com/fnassar)
-[Kedan Zha] (https://github.com/Zackdan0227)
+[Ishana Goyal](https://github.com/ishana-goyal)
+[Benji Luo](https://github.com/BenjiLuo)
+[Fatema Nassar](https://github.com/fnassar)
+[Kedan Zha](https://github.com/Zackdan0227)
 
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
-# Stakeholder: Luca Washenko, Founder & CEO of [Rise New York] (https://risenewyork.shop/)
+### Stakeholder: Luca Washenko, Founder & CEO of [Rise New York](https://risenewyork.shop/)
 We believe Luca is a good representation of the type of person for whom we are trying to design this mobile app for, as he is the founder of the company and could shed a lot of insight into what consumers are looking for.
 
-# Overview of Company: 
+### Overview of Company: 
 Rise has created a zero nicotine, caffeine-only diffuser with all natural ingredients. Their primary demographic is Gen-Z, or people ages 18-24. They appeal to students, coffee drinkers looking for different ways to supplement their caffeine intake, and individuals that are trying to reduce their nicotine intake. 
 
-# Goals: 
+### Goals: 
 His biggest goal is to get Rise diffusers into more hands. To be more specific, he has the following goals:
 1. A larger online presence
 2. Simplification of the the ordering process and increased presence in stores
 3. Increase brand awareness
 4. Stay competitive as more caffeine-diffusers pop up (more flavors, better prices, incentives to try Rise, etc.)
 
-# Problems / Frustrations:
+### Problems / Frustrations:
 1. He finds it difficult to stay in touch with consumers without being too invasive. He relies primarily on emailing existing customers (with new deals or reminders to stock up) but emails typically have lower conversion rates. SMS blasts are possible but are incredibly costly. He needs a way to communicate more easily. 
 2. One of his goals is to simplify the ordering process because right now he believes restocking on Rise bars monthly requires too much manual power (remembering to purchase it, putting in your address and credit card information, etc.). He is frustrated with the current obstacles it takes to complete an order. 
 3. For the users of Rise that are switching from nicotine, he has no concrete way of knowing if Rise is effective. He has access to reviews, comments, and repurchase rates, but besides that, it is unable to confirm that his product helps people quit nicotine. 
@@ -53,8 +53,8 @@ The Rise New York mobile application is a one-stop shop for users to buy and res
 
 ## Activity Diagrams
 
-# User Story 1:
+### User Story 1:
 As a user of Rise hoping to control my caffeine intake, I want to be able to track my caffeine levels to ensure that Rise is actually working for me as a caffeine alternative. 
 
-# User Story 2:
+### User Story 2:
 As a money-conscious consumer, I want Rise to let me know in a non-invasive way (not SMS messages) when there are discounts or promotions on Rise products so that I can save money.
