@@ -6,13 +6,14 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 [Ishana Goyal](https://github.com/ishana-goyal)
+
 [Benji Luo](https://github.com/BenjiLuo)
+
 [Fatema Nassar](https://github.com/fnassar)
+
 [Kedan Zha](https://github.com/Zackdan0227)
 
 ## Stakeholders
-
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
 ### Stakeholder: Luca Washenko, Founder & CEO of [Rise New York](https://risenewyork.shop/)
 We believe Luca is a good representation of the type of person for whom we are trying to design this mobile app for, as he is the founder of the company and could shed a lot of insight into what consumers are looking for.
