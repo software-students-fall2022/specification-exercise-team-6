@@ -66,5 +66,5 @@ As a money-conscious consumer, I want Rise to let me know in a non-invasive way 
 [Clickable Prototype](https://www.figma.com/file/M1hjicjvJDqzEzRQFzVRxQ/Team-6---Clickable-Prototype?node-id=0%3A1)
 
 ## Clickable Prototype with Design 
-[Clickable Prototype with Design](https://www.figma.com/file/XoDAcxKb2fxnU3xrrG6HQK/Team-6---Clickable-Prototype-with-Design?node-id=0%3A1)Additional frames with designs used to visualize the actual app (subset of total frames INCLUDING admin frames)
-https://www.figma.com/file/XoDAcxKb2fxnU3xrrG6HQK/Team-6---Clickable-Prototype-with-Design?node-id=0%3A1 
+[Clickable Prototype with Design](https://www.figma.com/file/XoDAcxKb2fxnU3xrrG6HQK/Team-6---Clickable-Prototype-with-Design?node-id=0%3A1)Additional frames with designs used to visualize the actual app (subset of total frames INCLUDING admin frames, for fun we wanted to visualize some of the frames :)).
+
