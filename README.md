@@ -55,7 +55,7 @@ The Rise New York mobile application is a one-stop shop for users to buy and res
 ## Activity Diagrams
 
 ### User Story 1:
-As a user of Rise hoping to control my caffeine intake, I want to be able to track my caffeine levels to ensure that Rise is actually working for me as a caffeine alternative. 
+As a user of Rise hoping to control my nicotine intake, I want to be able to track my caffeine and nicotine levels to ensure that Rise is actually working for me as a caffeine alternative. 
 ![user(1)](https://user-images.githubusercontent.com/90431300/193485734-98096f17-faae-434f-a373-9806a2649db0.png)
 
 ### User Story 2:
