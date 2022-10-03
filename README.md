@@ -61,3 +61,6 @@ As a user of Rise hoping to control my nicotine intake, I want to be able to tra
 ### User Story 2:
 As a money-conscious consumer, I want Rise to let me know in a non-invasive way (not SMS messages) when there are discounts or promotions on Rise products so that I can save money.
 ![User(2)](https://user-images.githubusercontent.com/90431300/193485747-88f4f748-9a1b-48f3-ba04-efe57f85098a.png)
+
+## Clickable Prototype
+[Clickable Prototype](https://www.figma.com/file/M1hjicjvJDqzEzRQFzVRxQ/Team-6---Clickable-Prototype?node-id=0%3A1)
